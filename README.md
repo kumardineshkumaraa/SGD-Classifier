@@ -26,12 +26,12 @@ STEP 8: Calculate and display the model's accuracy and confusion matrix.
 STEP 9: End
 
 ## Program:
+```
 /*
 Program to implement the prediction of iris species using SGD Classifier.
 Developed by: DINESH KUMARAA K
 RegisterNumber:  212222220012
 */
-```
 import pandas as pd
 from sklearn.datasets import load_iris
 from sklearn.linear_model import SGDClassifier
